@@ -1,7 +1,6 @@
 # HN0x02
 
-Les writeup sont disponibles.
-Les sources seront ajoutés plus tard pour des fins d'optimisation.
+Les writeup ainsi que les sources sont disponibles.
 
 ### Sources
 - Tarty'nov : https://github.com/TastyPewPew/Tarty-nov
