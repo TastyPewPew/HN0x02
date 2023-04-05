@@ -5,4 +5,4 @@ Les sources seront ajoutés plus tard pour des fins d'optimisation.
 
 ### Sources
 - Tarty'nov : https://github.com/TastyPewPew/Tarty-nov
-- La_fiole : En reconstruction.
+- La_fiole : https://github.com/TastyPewPew/La_Fiole
